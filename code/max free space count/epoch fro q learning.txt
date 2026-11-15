@@ -1,0 +1,241 @@
+INFO     2021-05-09 054437 episode 1200  status WIN   e 0.10000
+INFO     2021-05-09 054438 episode 2200  status WIN   e 0.09950
+INFO     2021-05-09 054512 episode 3200  status LOSE  e 0.09900
+INFO     2021-05-09 054542 episode 4200  status LOSE  e 0.09851
+INFO     2021-05-09 054619 episode 5200  status LOSE  e 0.09801
+INFO     2021-05-09 054620 won 8  lost 36  win rate 0.18182
+INFO     2021-05-09 054651 episode 6200  status WIN   e 0.09752
+INFO     2021-05-09 054730 episode 7200  status LOSE  e 0.09704
+INFO     2021-05-09 054756 episode 8200  status WIN   e 0.09655
+INFO     2021-05-09 054800 episode 9200  status WIN   e 0.09607
+INFO     2021-05-09 054826 episode 10200  status WIN   e 0.09559
+INFO     2021-05-09 054828 won 10  lost 34  win rate 0.22727
+INFO     2021-05-09 054858 episode 11200  status LOSE  e 0.09511
+INFO     2021-05-09 054900 episode 12200  status WIN   e 0.09464
+INFO     2021-05-09 054900 episode 13200  status WIN   e 0.09416
+INFO     2021-05-09 054908 episode 14200  status WIN   e 0.09369
+INFO     2021-05-09 054940 episode 15200  status WIN   e 0.09322
+INFO     2021-05-09 054941 won 10  lost 34  win rate 0.22727
+INFO     2021-05-09 055010 episode 16200  status WIN   e 0.09276
+INFO     2021-05-09 055012 episode 17200  status WIN   e 0.09229
+INFO     2021-05-09 055033 episode 18200  status WIN   e 0.09183
+INFO     2021-05-09 055049 episode 19200  status WIN   e 0.09137
+INFO     2021-05-09 055126 episode 20200  status LOSE  e 0.09092
+INFO     2021-05-09 055127 won 13  lost 31  win rate 0.29545
+INFO     2021-05-09 055144 episode 21200  status WIN   e 0.09046
+INFO     2021-05-09 055146 episode 22200  status WIN   e 0.09001
+INFO     2021-05-09 055215 episode 23200  status WIN   e 0.08956
+INFO     2021-05-09 055237 episode 24200  status WIN   e 0.08911
+INFO     2021-05-09 055239 episode 25200  status WIN   e 0.08867
+INFO     2021-05-09 055240 won 15  lost 29  win rate 0.34091
+INFO     2021-05-09 055248 episode 26200  status WIN   e 0.08822
+INFO     2021-05-09 055250 episode 27200  status WIN   e 0.08778
+INFO     2021-05-09 055257 episode 28200  status WIN   e 0.08734
+INFO     2021-05-09 055323 episode 29200  status WIN   e 0.08691
+INFO     2021-05-09 055328 episode 30200  status WIN   e 0.08647
+INFO     2021-05-09 055329 won 23  lost 21  win rate 0.52273
+INFO     2021-05-09 055341 episode 31200  status WIN   e 0.08604
+INFO     2021-05-09 055346 episode 32200  status WIN   e 0.08561
+INFO     2021-05-09 055356 episode 33200  status WIN   e 0.08518
+INFO     2021-05-09 055359 episode 34200  status WIN   e 0.08475
+INFO     2021-05-09 055417 episode 35200  status WIN   e 0.08433
+INFO     2021-05-09 055418 won 20  lost 24  win rate 0.45455
+INFO     2021-05-09 055423 episode 36200  status WIN   e 0.08391
+INFO     2021-05-09 055426 episode 37200  status WIN   e 0.08349
+INFO     2021-05-09 055426 episode 38200  status WIN   e 0.08307
+INFO     2021-05-09 055428 episode 39200  status WIN   e 0.08266
+INFO     2021-05-09 055430 episode 40200  status WIN   e 0.08224
+INFO     2021-05-09 055431 won 23  lost 21  win rate 0.52273
+INFO     2021-05-09 055445 episode 41200  status WIN   e 0.08183
+INFO     2021-05-09 055446 episode 42200  status WIN   e 0.08142
+INFO     2021-05-09 055448 episode 43200  status WIN   e 0.08102
+INFO     2021-05-09 055450 episode 44200  status WIN   e 0.08061
+INFO     2021-05-09 055452 episode 45200  status WIN   e 0.08021
+INFO     2021-05-09 055453 won 28  lost 16  win rate 0.63636
+INFO     2021-05-09 055456 episode 46200  status WIN   e 0.07981
+INFO     2021-05-09 055458 episode 47200  status WIN   e 0.07941
+INFO     2021-05-09 055504 episode 48200  status WIN   e 0.07901
+INFO     2021-05-09 055504 episode 49200  status WIN   e 0.07862
+INFO     2021-05-09 055511 episode 50200  status WIN   e 0.07822
+INFO     2021-05-09 055512 won 30  lost 14  win rate 0.68182
+INFO     2021-05-09 055513 episode 51200  status WIN   e 0.07783
+INFO     2021-05-09 055515 episode 52200  status WIN   e 0.07744
+INFO     2021-05-09 055517 episode 53200  status WIN   e 0.07705
+INFO     2021-05-09 055520 episode 54200  status WIN   e 0.07667
+INFO     2021-05-09 055524 episode 55200  status WIN   e 0.07629
+INFO     2021-05-09 055524 won 30  lost 14  win rate 0.68182
+INFO     2021-05-09 055529 episode 56200  status WIN   e 0.07590
+INFO     2021-05-09 055533 episode 57200  status WIN   e 0.07553
+INFO     2021-05-09 055539 episode 58200  status WIN   e 0.07515
+INFO     2021-05-09 055543 episode 59200  status WIN   e 0.07477
+INFO     2021-05-09 055544 episode 60200  status WIN   e 0.07440
+INFO     2021-05-09 055545 won 32  lost 12  win rate 0.72727
+INFO     2021-05-09 055549 episode 61200  status WIN   e 0.07403
+INFO     2021-05-09 055552 episode 62200  status WIN   e 0.07366
+INFO     2021-05-09 055553 episode 63200  status WIN   e 0.07329
+INFO     2021-05-09 055600 episode 64200  status WIN   e 0.07292
+INFO     2021-05-09 055602 episode 65200  status WIN   e 0.07256
+INFO     2021-05-09 055602 won 33  lost 11  win rate 0.75000
+INFO     2021-05-09 055611 episode 66200  status WIN   e 0.07219
+INFO     2021-05-09 055616 episode 67200  status WIN   e 0.07183
+INFO     2021-05-09 055618 episode 68200  status WIN   e 0.07147
+INFO     2021-05-09 055619 episode 69200  status WIN   e 0.07112
+INFO     2021-05-09 055621 episode 70200  status WIN   e 0.07076
+INFO     2021-05-09 055622 won 36  lost 8  win rate 0.81818
+INFO     2021-05-09 055624 episode 71200  status WIN   e 0.07041
+INFO     2021-05-09 055630 episode 72200  status WIN   e 0.07005
+INFO     2021-05-09 055631 episode 73200  status WIN   e 0.06970
+INFO     2021-05-09 055633 episode 74200  status WIN   e 0.06936
+INFO     2021-05-09 055638 episode 75200  status WIN   e 0.06901
+INFO     2021-05-09 055638 won 34  lost 10  win rate 0.77273
+INFO     2021-05-09 055643 episode 76200  status WIN   e 0.06866
+INFO     2021-05-09 055645 episode 77200  status WIN   e 0.06832
+INFO     2021-05-09 055657 episode 78200  status WIN   e 0.06798
+INFO     2021-05-09 055702 episode 79200  status WIN   e 0.06764
+INFO     2021-05-09 055704 episode 80200  status WIN   e 0.06730
+INFO     2021-05-09 055704 won 37  lost 7  win rate 0.84091
+INFO     2021-05-09 055707 episode 81200  status WIN   e 0.06696
+INFO     2021-05-09 055715 episode 82200  status WIN   e 0.06663
+INFO     2021-05-09 055719 episode 83200  status WIN   e 0.06630
+INFO     2021-05-09 055724 episode 84200  status WIN   e 0.06597
+INFO     2021-05-09 055727 episode 85200  status WIN   e 0.06564
+INFO     2021-05-09 055728 won 34  lost 10  win rate 0.77273
+INFO     2021-05-09 055734 episode 86200  status WIN   e 0.06531
+INFO     2021-05-09 055740 episode 87200  status WIN   e 0.06498
+INFO     2021-05-09 055741 episode 88200  status WIN   e 0.06466
+INFO     2021-05-09 055742 episode 89200  status WIN   e 0.06433
+INFO     2021-05-09 055745 episode 90200  status WIN   e 0.06401
+INFO     2021-05-09 055746 won 30  lost 14  win rate 0.68182
+INFO     2021-05-09 055757 episode 91200  status WIN   e 0.06369
+INFO     2021-05-09 055800 episode 92200  status WIN   e 0.06337
+INFO     2021-05-09 055802 episode 93200  status WIN   e 0.06306
+INFO     2021-05-09 055804 episode 94200  status WIN   e 0.06274
+INFO     2021-05-09 055806 episode 95200  status WIN   e 0.06243
+INFO     2021-05-09 055806 won 36  lost 8  win rate 0.81818
+INFO     2021-05-09 055811 episode 96200  status WIN   e 0.06211
+INFO     2021-05-09 055813 episode 97200  status WIN   e 0.06180
+INFO     2021-05-09 055813 episode 98200  status WIN   e 0.06149
+INFO     2021-05-09 055815 episode 99200  status WIN   e 0.06119
+INFO     2021-05-09 055826 episode 100200  status WIN   e 0.06088
+INFO     2021-05-09 055827 won 28  lost 16  win rate 0.63636
+INFO     2021-05-09 055833 episode 101200  status WIN   e 0.06058
+INFO     2021-05-09 055840 episode 102200  status WIN   e 0.06027
+INFO     2021-05-09 055841 episode 103200  status WIN   e 0.05997
+INFO     2021-05-09 055844 episode 104200  status WIN   e 0.05967
+INFO     2021-05-09 055847 episode 105200  status WIN   e 0.05937
+INFO     2021-05-09 055847 won 39  lost 5  win rate 0.88636
+INFO     2021-05-09 055851 episode 106200  status WIN   e 0.05908
+INFO     2021-05-09 055855 episode 107200  status WIN   e 0.05878
+INFO     2021-05-09 055902 episode 108200  status WIN   e 0.05849
+INFO     2021-05-09 055904 episode 109200  status WIN   e 0.05820
+INFO     2021-05-09 055909 episode 110200  status WIN   e 0.05790
+INFO     2021-05-09 055910 won 32  lost 12  win rate 0.72727
+INFO     2021-05-09 055914 episode 111200  status WIN   e 0.05762
+INFO     2021-05-09 055917 episode 112200  status WIN   e 0.05733
+INFO     2021-05-09 055919 episode 113200  status WIN   e 0.05704
+INFO     2021-05-09 055922 episode 114200  status WIN   e 0.05676
+INFO     2021-05-09 055925 episode 115200  status WIN   e 0.05647
+INFO     2021-05-09 055926 won 29  lost 15  win rate 0.65909
+INFO     2021-05-09 055929 episode 116200  status WIN   e 0.05619
+INFO     2021-05-09 055933 episode 117200  status WIN   e 0.05591
+INFO     2021-05-09 055934 episode 118200  status WIN   e 0.05563
+INFO     2021-05-09 055941 episode 119200  status WIN   e 0.05535
+INFO     2021-05-09 055946 episode 120200  status WIN   e 0.05507
+INFO     2021-05-09 055946 won 33  lost 11  win rate 0.75000
+INFO     2021-05-09 055958 episode 121200  status WIN   e 0.05480
+INFO     2021-05-09 055959 episode 122200  status WIN   e 0.05452
+INFO     2021-05-09 060002 episode 123200  status WIN   e 0.05425
+INFO     2021-05-09 060005 episode 124200  status WIN   e 0.05398
+INFO     2021-05-09 060011 episode 125200  status WIN   e 0.05371
+INFO     2021-05-09 060012 won 35  lost 9  win rate 0.79545
+INFO     2021-05-09 060018 episode 126200  status WIN   e 0.05344
+INFO     2021-05-09 060020 episode 127200  status WIN   e 0.05318
+INFO     2021-05-09 060020 episode 128200  status WIN   e 0.05291
+INFO     2021-05-09 060029 episode 129200  status WIN   e 0.05264
+INFO     2021-05-09 060033 episode 130200  status WIN   e 0.05238
+INFO     2021-05-09 060033 won 39  lost 5  win rate 0.88636
+INFO     2021-05-09 060038 episode 131200  status WIN   e 0.05212
+INFO     2021-05-09 060038 episode 132200  status WIN   e 0.05186
+INFO     2021-05-09 060042 episode 133200  status WIN   e 0.05160
+INFO     2021-05-09 060043 episode 134200  status WIN   e 0.05134
+INFO     2021-05-09 060044 episode 135200  status WIN   e 0.05108
+INFO     2021-05-09 060045 won 39  lost 5  win rate 0.88636
+INFO     2021-05-09 060047 episode 136200  status WIN   e 0.05083
+INFO     2021-05-09 060053 episode 137200  status WIN   e 0.05058
+INFO     2021-05-09 060055 episode 138200  status WIN   e 0.05032
+INFO     2021-05-09 060055 episode 139200  status WIN   e 0.05007
+INFO     2021-05-09 060056 episode 140200  status WIN   e 0.04982
+INFO     2021-05-09 060056 won 41  lost 3  win rate 0.93182
+INFO     2021-05-09 060059 episode 141200  status WIN   e 0.04957
+INFO     2021-05-09 060102 episode 142200  status WIN   e 0.04932
+INFO     2021-05-09 060104 episode 143200  status WIN   e 0.04908
+INFO     2021-05-09 060108 episode 144200  status WIN   e 0.04883
+INFO     2021-05-09 060114 episode 145200  status WIN   e 0.04859
+INFO     2021-05-09 060114 won 43  lost 1  win rate 0.97727
+INFO     2021-05-09 060116 episode 146200  status WIN   e 0.04834
+INFO     2021-05-09 060119 episode 147200  status WIN   e 0.04810
+INFO     2021-05-09 060123 episode 148200  status WIN   e 0.04786
+INFO     2021-05-09 060125 episode 149200  status WIN   e 0.04762
+INFO     2021-05-09 060129 episode 150200  status WIN   e 0.04738
+INFO     2021-05-09 060130 won 41  lost 3  win rate 0.93182
+INFO     2021-05-09 060132 episode 151200  status WIN   e 0.04715
+INFO     2021-05-09 060135 episode 152200  status WIN   e 0.04691
+INFO     2021-05-09 060139 episode 153200  status WIN   e 0.04668
+INFO     2021-05-09 060143 episode 154200  status WIN   e 0.04644
+INFO     2021-05-09 060144 episode 155200  status WIN   e 0.04621
+INFO     2021-05-09 060144 won 41  lost 3  win rate 0.93182
+INFO     2021-05-09 060149 episode 156200  status WIN   e 0.04598
+INFO     2021-05-09 060150 episode 157200  status WIN   e 0.04575
+INFO     2021-05-09 060153 episode 158200  status WIN   e 0.04552
+INFO     2021-05-09 060154 episode 159200  status WIN   e 0.04529
+INFO     2021-05-09 060155 episode 160200  status WIN   e 0.04507
+INFO     2021-05-09 060155 won 41  lost 3  win rate 0.93182
+INFO     2021-05-09 060201 episode 161200  status WIN   e 0.04484
+INFO     2021-05-09 060207 episode 162200  status WIN   e 0.04462
+INFO     2021-05-09 060211 episode 163200  status WIN   e 0.04440
+INFO     2021-05-09 060214 episode 164200  status WIN   e 0.04417
+INFO     2021-05-09 060215 episode 165200  status WIN   e 0.04395
+INFO     2021-05-09 060215 won 43  lost 1  win rate 0.97727
+INFO     2021-05-09 060221 episode 166200  status WIN   e 0.04373
+INFO     2021-05-09 060223 episode 167200  status WIN   e 0.04351
+INFO     2021-05-09 060229 episode 168200  status WIN   e 0.04330
+INFO     2021-05-09 060233 episode 169200  status WIN   e 0.04308
+INFO     2021-05-09 060238 episode 170200  status WIN   e 0.04286
+INFO     2021-05-09 060238 won 43  lost 1  win rate 0.97727
+INFO     2021-05-09 060241 episode 171200  status WIN   e 0.04265
+INFO     2021-05-09 060246 episode 172200  status WIN   e 0.04244
+INFO     2021-05-09 060248 episode 173200  status WIN   e 0.04223
+INFO     2021-05-09 060251 episode 174200  status WIN   e 0.04201
+INFO     2021-05-09 060257 episode 175200  status WIN   e 0.04180
+INFO     2021-05-09 060257 won 43  lost 1  win rate 0.97727
+INFO     2021-05-09 060303 episode 176200  status WIN   e 0.04159
+INFO     2021-05-09 060310 episode 177200  status WIN   e 0.04139
+INFO     2021-05-09 060314 episode 178200  status WIN   e 0.04118
+INFO     2021-05-09 060320 episode 179200  status WIN   e 0.04097
+INFO     2021-05-09 060323 episode 180200  status WIN   e 0.04077
+INFO     2021-05-09 060324 won 42  lost 2  win rate 0.95455
+INFO     2021-05-09 060329 episode 181200  status WIN   e 0.04057
+INFO     2021-05-09 060332 episode 182200  status WIN   e 0.04036
+INFO     2021-05-09 060335 episode 183200  status WIN   e 0.04016
+INFO     2021-05-09 060336 episode 184200  status WIN   e 0.03996
+INFO     2021-05-09 060340 episode 185200  status WIN   e 0.03976
+INFO     2021-05-09 060341 won 42  lost 2  win rate 0.95455
+INFO     2021-05-09 060342 episode 186200  status WIN   e 0.03956
+INFO     2021-05-09 060343 episode 187200  status WIN   e 0.03936
+INFO     2021-05-09 060346 episode 188200  status WIN   e 0.03917
+INFO     2021-05-09 060349 episode 189200  status WIN   e 0.03897
+INFO     2021-05-09 060354 episode 190200  status WIN   e 0.03878
+INFO     2021-05-09 060355 won 42  lost 2  win rate 0.95455
+INFO     2021-05-09 060357 episode 191200  status WIN   e 0.03858
+INFO     2021-05-09 060358 episode 192200  status WIN   e 0.03839
+INFO     2021-05-09 060402 episode 193200  status WIN   e 0.03820
+INFO     2021-05-09 060405 episode 194200  status WIN   e 0.03801
+INFO     2021-05-09 060410 episode 195200  status WIN   e 0.03782
+INFO     2021-05-09 060410 won 42  lost 2  win rate 0.95455
+INFO     2021-05-09 060415 episode 196200  status WIN   e 0.03763
+INFO     2021-05-09 060416 episode 197200  status WIN   e 0.03744
+INFO     2021-05-09 060419 episode 198200  status WIN   e 0.03725
+INFO     2021-05-09 060427 episode 199200  status WIN   e 0.03707
+INFO     2021-05-09 060427 episode 200200  status WIN   e 0.03688
+INFO     2021-05-09 060427 won 42  lost 2  win rate 0.95455
+INFO     2021-05-09 060427 episodes 200  time spent 01954.685288
